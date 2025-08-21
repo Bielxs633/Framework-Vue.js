@@ -4,5 +4,5 @@ import TheWelcome from './components/TheWelcome.vue'
 </script>
 
 <template>
-  <h1>Hello</h1>
+<h1>HelloVue</h1>
 </template>
